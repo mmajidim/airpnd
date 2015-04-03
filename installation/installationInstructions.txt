@@ -1,0 +1,25 @@
+RELEASE SPECIFIC NOTES
+-------------------------------
+
+==============================================================================
+
+Update the ../config/config.php with the following:
+==============================================================================
+config.php
+1. Please update variable site url with live url.
+$config['base_url']	= "http://airpnd/";
+
+
+Update the ../resource/js/constant.js with the following:
+==============================================================================
+
+1. Please update CUSTOM_API_URL, API_URL with nexus hosted url.
+// nexus web service URL
+var API_URL = 'http://nexuscb/nexusService.php';
+// custom web serviec URL 
+var CUSTOM_API_URL = 'http://nexuscb/customService.php';
+// site URL
+var SITE_URL = 'http://airpnd/'; 
+// facebook app Id
+var FACEBOOK_APP_ID = '227928134025661';
+

@@ -1,0 +1,493 @@
+/**
+* @file       layout.css
+* @version    1.0.0
+* @author     Rahamtulla I(Aloha Technology)
+* @desc       layout style
+* @date       10/03/2013
+* @copyright  MindShare HDV LLC. 2013. All rights reseverd. Property of
+*             MindShare HDV. This file can not be used, altered, in any way  
+*             without expressed written permission from MindShare HDV, LLC.
+* @revDate    03/24/2014
+* @revAuthor  Rahamtulla I(Aloha Technology)
+* @revDesc    added layout style
+*/
+.navbar-inner
+{
+    background: url("../images/menu_green_middle.png") repeat-x scroll left top rgba(0, 0, 0, 0) !important;
+}
+.brand
+{
+    position: absolute;
+    padding: 0 !important;
+    top: 45px;
+}
+.navbar-inverse .brand, .navbar-inverse .nav > li > a
+{
+    color: #FFFFFF !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.navbar-inner
+{
+    height: 30px !important;
+    border:none !important;
+}
+.navbar-inverse
+{
+    height: 37px !important;
+}
+body
+{
+    background: none repeat scroll 0 0 #F3F3F3 !important;
+    font-size: 12px !important;
+}
+.topMenu
+{
+    position: absolute;
+    top:10px;
+    right:30px;
+}
+.span3-half
+{
+    width: 28.5%;
+}
+.span3-half-ext
+{
+    width: 28%;
+}
+.span10-half
+{
+    width: 800px;
+}
+.rowExt
+{
+    background-color: #ffffff !important;
+}
+.labelExt label
+{
+    color: #298E42;
+    font-family: verdana;
+    font-size: 11px;
+    font-weight: bold;
+}
+#footer .container .row ul
+{
+    list-style: none !important;
+}
+#signIn, #forgotPasswordButton ,#signUpButton
+{
+    background-color: #208738 !important;
+    background-image: none !important;
+    border: medium none !important;
+    float: left;
+    font-weight: bold !important;
+    margin-right: 73px;
+}
+#signInModal .span2Ext
+{
+    font-size: 14px;
+    font-weight: bold;
+    width: 20%;
+}
+#signInModal, #forgotPasswordModal
+{
+    z-index: 9999 !important;
+    overflow-x:hidden;
+}
+#signInModal .span4
+{
+    width: 69% !important;
+}
+.modal-header
+{
+    background-color: #208738 !important;
+    background-image: none !important;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    color: #FFFFFF !important;
+}
+#alertBoxModal .modal-header
+{
+    background-color: #fcf8e3 !important;
+    border-color: #faebcc;
+    background-image: none !important;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    color: #c09853 !important;
+}
+.closeIcon
+{
+    cursor: pointer;
+}
+#forgotPassword ,#createAccount,#fbLoginLink
+{
+    color: #0067D0 !important;
+}
+.signInModal,#signUpLink
+{
+    z-index: 9999 !important;
+    color: #ffffff !important;
+    font-size: 1.8em !important;
+    cursor: pointer;
+}
+.forgotPasswordModal
+{
+    color: #ffffff !important;
+    font-size: 1.8em !important;
+    cursor: default;
+}
+#signInTop
+{
+    color: #6f6f6f !important;
+    font-size: 15px !important;
+}
+.span4Ext
+{
+    width: 49%!important;
+}
+.bold
+{
+    font-weight: bold !important;
+}
+.carItemData
+{
+    width: 66px !important
+}
+.carItemData 
+{
+    position: relative;
+    top: -16px;
+    width: 66px !important;
+}
+.leftEle
+{
+    float: left;
+    left: 34%;
+    position: relative;
+    width: 25%;
+}
+.rightEle
+{
+    float: left;
+    left: 18%;
+    position: relative;
+    top: -6px;
+    width: 12%;
+}
+#signUpModal ,#blogFormContainer,#editRideModal,#editLiftModalPopUp
+{
+    width: 560px !important;
+    z-index: 9999!important;
+    overflow-y: auto !important;
+    overflow: auto !important;
+}
+#middleName, #lastName 
+{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-right: 1px;
+    width:85px;
+}
+#firstName 
+{
+    margin-right: 1px;
+    width: 70px;
+}
+.span2Ext
+{
+    width: 112px !important;
+}
+.span1ExtButton
+{
+    width: 80px !important;
+    margin-right: 22px !important;
+}
+.form-horizontal .control-label 
+{
+    width: 26% !important;
+    text-align: left !important;
+}
+.span2Check
+{
+    float: left;
+    width: 125px !important;
+}
+#forgotPasswordForm .span1ExtButton
+{
+    width: 100px !important;
+}
+#forgotPasswordForm .span1ExtLabel
+{
+    width: 19% !important;
+}
+.creditSeperator
+{
+    margin-left: 53px !important;
+}
+.checkboxExt
+{
+    margin-left: 21px !important; 
+}
+.icon-phone
+{
+    height: 14px !important;
+} 
+ul.nav li:hover 
+{
+    /*    background-color: #007bba !important;    */
+}
+.button
+{
+    padding-left: 53px !important;
+}
+.signUpButton
+{
+    padding-left: 45px !important;
+}
+.errorPopUp .popover
+{
+    background-color:#B94A48 !important;
+    color:#ffffff !important;
+    height: 24px !important;
+    font-size: 12px !important;
+}
+#searchCarForm .popover
+{
+    background-color:#B94A48 !important;
+    color:#ffffff !important;
+    height: 24px !important;
+    font-size: 12px !important;
+    width: 175px;
+}
+#modifySearchForm .popover .arrow:after 
+{
+    border-left-color: rgba(0, 0, 0, 0.0011) !important;
+    border-top-color: #B94A48 !important;
+    bottom: -23px !important;
+}
+
+.rightSide .popover .arrow:after
+{
+    border-left-color: rgba(0, 0, 0, 0.0011) !important;
+    border-right-color: #B94A48 !important;
+}
+#popUpContainer .popover
+{
+    z-index: 99999;
+}
+
+.topSide .popover .arrow:after
+{
+    border-top-color:#B94A48 !important;
+}
+.popover-content
+{
+    padding: 1px 10px !important;
+}
+#signInModal input[type="password"],
+#signInModal input[type="text"],
+#signInModal select
+{
+    width:100% ;
+}
+.checkExt
+{
+    margin-right: 40px;
+}
+#welcomeMenu
+{
+    right: 110px;
+    z-index: 999 !important;
+}
+.drivingDetails
+{
+    display: none;
+}
+.card
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #EFEFEF;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    padding: 10px;
+}
+.card-header
+{
+    margin-bottom: 12px;
+}
+.card-img
+{
+    clear: both;
+    height: 200px;
+    margin-bottom: 8px;
+    width: 100%;
+}
+.card-disclaimer
+{
+    border-bottom: 1px dotted #CCCCCC;
+    color: #BDBDBD;
+    font-size: 10px;
+    line-height: 1.4;
+    padding-bottom: 9px;
+}
+.card-footer
+{
+    border-top: 1px dotted #CCCCCC;
+    overflow: hidden;
+    padding-top: 7px;
+}
+.card-title
+{
+    color: #000;
+    font-size: 16px;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 4px;
+    max-width: 75%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: none;
+    white-space: nowrap;
+}
+.card-transmission 
+{
+    color: #BDBDBD;
+    float: right;
+    font-family: FuturaBT-Medium,sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    margin-top: 6px;
+    text-align: right;
+    text-transform: uppercase;
+}
+.card-footer h3
+{
+    line-height: 30px;
+    margin: 0;
+}
+.card-footer h3 span
+{
+    color: #999999;
+    display: block;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 12px;
+    text-transform: none;
+}
+.carDesc
+{
+    color: #808080;
+}
+#modifySearch
+{
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+#modifySearchContainer
+{
+    display: none;
+}
+#searchlocation
+{
+    width: 247px !important;
+}
+.popover-title
+{
+    background-color: #2a9243!important;
+    color: #fff!important;
+}
+.carSearchImg
+{
+    cursor: pointer;
+}
+#ui-datepicker-div
+{
+    z-index: 99999 !important;
+}
+.ui_tpicker_hour_slider,.ui_tpicker_minute_slider
+{
+    background-color: #fff !important;
+    background-image: none !important;
+}
+body
+{
+    padding-top: 60px;
+}
+textarea
+{
+    resize: none;
+}
+.greenFont
+{
+    color: #298E42;
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold;
+}
+.white-color
+{
+    color: #fff !important;
+}
+#signUpModalPopup
+{
+    z-index: 99999 !important;
+}
+.socialConnect 
+{
+    cursor: pointer;
+}
+.carousel-control 
+{
+    opacity: 0.15;
+}
+.navbar-inverse .nav > li > a:hover
+{
+    border-bottom: 1px solid #fff !important;
+    text-decoration: underline!important;
+    height: 18px;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background-color: #eaeaea;
+    border-left: 1px solid #ccc;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #aaa;
+}
+
+#ridePaymentModalPopup .modal
+{
+    left: 20% !important;
+}
+#ridePaymentModalPopup .modal.fade.in 
+{
+    height: 500px !important;
+}
+.homeScreen
+{
+    background-color: #F3F3F3 !important;
+/*    padding-left: 32px;*/
+    padding-right:0px !important;
+}
+#myCarousel img
+{
+    width:100%;
+}
+.fullWidth
+{
+    width:100%;
+    height:200px;
+}
+.carousel
+{
+    margin-bottom: 10px;
+}
+/* End of file layout.css */
+/* Location: ./css/layout.css */ 

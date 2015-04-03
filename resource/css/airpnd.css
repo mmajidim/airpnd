@@ -1,0 +1,184 @@
+/**
+* @file       airpnd.css
+* @version    1.0.0
+* @author     Rahamtulla I(Aloha Technology)
+* @desc       added airpnd style
+* @date       10/03/2013
+* @copyright  MindShare HDV LLC. 2013. All rights reseverd. Property of
+*             MindShare HDV. This file can not be used, altered, in any way  
+*             without expressed written permission from MindShare HDV, LLC.
+* @revDate    03/24/2014
+* @revAuthor  Rahamtulla I(Aloha Technology)
+* @revDesc    added airpnd style
+*/
+
+.airspndPage {
+    position: relative; width: 110px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+
+.airspndPage-checkbox {
+    display: none;
+}
+
+.airspndPage-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 26px;
+}
+
+.airspndPage-inner {
+    width: 200%; margin-left: -100%;
+    -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
+    -o-transition: margin 0.3s ease-in 0s; transition: margin 0.3s ease-in 0s;
+}
+
+.airspndPage-inner:before, .airspndPage-inner:after {
+    float: left; width: 50%; height: 34px; padding: 0; line-height: 34px;
+    font-size: 17px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+.airspndPage-inner:before {
+    content: "Find Rider";
+    padding-left: 25px;
+    background-color: #127D1E; color: #FFFFFF;
+}
+
+.airspndPage-inner:after {
+    content: "Find Driver";
+    padding-right: 25px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+
+.airspndPage-switch {
+    width: 22px; margin: 6px;
+    background: #FFFFFF;
+    border: 2px solid #999999; border-radius: 26px;
+    position: absolute; top: 0; bottom: 0; right: 119px;
+    -moz-transition: all 0.3s ease-in 0s; -webkit-transition: all 0.3s ease-in 0s;
+    -o-transition: all 0.3s ease-in 0s; transition: all 0.3s ease-in 0s; 
+}
+
+.airspndPage-checkbox:checked + .airspndPage-label .airspndPage-inner {
+    margin-left: 0;
+}
+
+.airspndPage-checkbox:checked + .airspndPage-label .airspndPage-switch {
+    right: 0px; 
+}
+
+.smoker {
+    position: relative; width: 81px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+
+.smoker-checkbox {
+    display: none !important;
+}
+
+.smoker-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 20px;
+}
+
+.smoker-inner {
+    width: 200%; margin-left: -100%;
+    -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
+    -o-transition: margin 0.3s ease-in 0s; transition: margin 0.3s ease-in 0s;
+}
+
+.smoker-inner:before, .smoker-inner:after {
+    float: left; width: 50%; height: 23px; padding: 0; line-height: 23px;
+    font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+.smoker-inner:before {
+    content: "Yes";
+    padding-left: 10px;
+    background-color: #428F48; color: #FFFFFF;
+}
+
+.smoker-inner:after {
+    content: "No";
+    padding-right: 10px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+
+.smoker-switch {
+    width: 18px; margin: 2.5px;
+    background: #FFFFFF;
+    border: 2px solid #999999; border-radius: 20px;
+    position: absolute; top: 0; bottom: 0; right: 54px;
+    -moz-transition: all 0.3s ease-in 0s; -webkit-transition: all 0.3s ease-in 0s;
+    -o-transition: all 0.3s ease-in 0s; transition: all 0.3s ease-in 0s; 
+}
+
+.smoker-checkbox:checked + .smoker-label .smoker-inner {
+    margin-left: 0;
+}
+
+.smoker-checkbox:checked + .smoker-label .smoker-switch {
+    right: 0px; 
+}
+.customerNote {
+    position: relative; width: 135px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+
+.customerNote-checkbox {
+    display: none;
+}
+
+.customerNote-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #999999; border-radius: 20px;
+}
+
+.customerNote-inner {
+    width: 200%; margin-left: -100%;
+    -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
+    -o-transition: margin 0.3s ease-in 0s; transition: margin 0.3s ease-in 0s;
+}
+
+.customerNote-inner:before, .customerNote-inner:after {
+    float: left; width: 50%; height: 23px; padding: 0; line-height: 23px;
+    font-size: 12px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+.customerNote-inner:before {
+    content: "Paypal Account";
+    padding-left: 12px;
+    background-color: #24C73F; color: #FFFFFF;
+}
+
+.customerNote-inner:after {
+    content: "ACH Account";
+    padding-right: 12px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+
+.customerNote-switch {
+    width: 18px; margin: 2.5px;
+    background: #FFFFFF;
+    border: 2px solid #999999; border-radius: 20px;
+    position: absolute; top: 0; bottom: 0; right: 108px;
+    -moz-transition: all 0.3s ease-in 0s; -webkit-transition: all 0.3s ease-in 0s;
+    -o-transition: all 0.3s ease-in 0s; transition: all 0.3s ease-in 0s; 
+}
+
+.customerNote-checkbox:checked + .customerNote-label .customerNote-inner {
+    margin-left: 0;
+}
+
+.customerNote-checkbox:checked + .customerNote-label .customerNote-switch {
+    right: 0px; 
+}
+
+
+/* End of file airpnd.css 
+Location: ./css/airpnd.css  */

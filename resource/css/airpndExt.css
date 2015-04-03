@@ -1,0 +1,117 @@
+/*
+* @file       airpndExt.css
+* @version    1.0.0
+* @author     Rahamtulla I(Aloha Technology)
+* @desc       airpndExt style
+* @date       10/28/2013
+* @copyright  MindShare HDV LLC. 2013. All rights reseverd. Property of
+*             MindShare HDV. This file can not be used, altered, in any way  
+*             without expressed written permission from MindShare HDV, LLC.
+* @revDate    02/14/2014
+* @revAuthor  Rahamtulla I(Aloha Technology)
+* @revDesc    updated css
+* @revDate    03/07/2014
+* @revAuthor  Rahamtulla I(Aloha Technology)
+* @revDesc    done with minor formatting
+*/
+#content
+{
+    height: auto;
+    background-color: #f2f2f2;
+    padding: 20px 10px;
+    overflow: auto;
+}
+#tab-container
+{
+    float: left;
+    margin: 50px 0 0 0;
+    width: 126px;
+}
+#tab-container ul
+{
+    list-style: none;
+    text-align: center;
+}
+#tab-container ul li
+{
+    border-top: 1px solid #666;
+    border-right: 1px solid #666;
+    border-bottom: 1px solid #666;
+    border-left: 8px solid #666;
+    background-color: #ddd;
+    margin: 8px 0;
+}
+#tab-container ul li a,
+#tab-container ul li a:visited
+{
+    text-decoration: none;
+    color: #666;
+    display: block;
+    padding: 15px 5px;
+}
+#tab-container ul li:hover
+{
+    border-left: 8px solid #333;
+}
+#tab-container ul li a:hover
+{
+    color: #000;
+}
+#tab-container ul li.selected
+{
+    border-right: none;
+    background-color: #fff;
+    border-left: 8px solid #006699;
+}
+#main-container
+{
+    min-height: 150px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+.spanLabel
+{
+    color: #248b3c;
+    font-size: 14px;
+    font-weight: bold;
+}
+#userName,
+#userName:hover
+{
+    background-color: none !important;
+}
+.profileEdit
+{
+    display: none ;
+}
+.carBadge 
+{
+    background-color: #248B3C !important;
+    border-radius: 0 0 0 0 !important;
+    position: relative !important;
+    right: 100px !important;
+    top: -178px !important;
+}
+.notRented
+{
+    display: none;
+}
+.disableTab
+{
+    display: none;
+}
+.flight-info + .box-footer
+{
+    margin-top: 10px;
+}
+.box-footer.has-border
+{
+    border-top: 2px solid #FFF;
+    padding-top: 20px;
+}
+.notVisible
+{
+    display: none;
+}
+/* End of file airpndExt.css */
+/* Location: ./css/airpndExt.css */ 

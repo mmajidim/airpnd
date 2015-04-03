@@ -1,0 +1,97 @@
+/*
+* @file       search.css
+* @version    1.0.0
+* @author     Rahamtulla I(Aloha Technology)
+* @desc       find my car page style
+* @date       10/03/2013
+* @copyright  MindShare HDV LLC. 2013. All rights reseverd. Property of
+*             MindShare HDV. This file can not be used, altered, in any way  
+*             without expressed written permission from MindShare HDV, LLC.
+* @revDate    03/24/2014
+* @revAuthor  Rahamtulla I(Aloha Technology)
+* @revDesc    added layout style
+*/
+#searchCarContainerDiv  .subhead-renting 
+{
+    background: none repeat scroll 0 0 #F3F3F3 ;
+}
+#searchCarContainerDiv  .subhead-inverse
+{
+    color: #FFFFFF;
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.car-search 
+{
+    text-align: center;
+}
+.subhead-pad
+{
+    padding: 1px 0;
+}
+.car-search .lead
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+#searchCarContainerDiv .subhead-inverse a,
+#searchCarContainerDiv  .subhead-inverse p 
+{
+    color: #208738;
+}
+.lead 
+{
+    font-size: 16px;
+    line-height: 1.5;
+}
+.ie7-inline-block 
+{
+    display: inline-block;
+}
+.car-search .input-location 
+{
+    width: 200px;
+}
+.home-form-container .control-group 
+{
+    margin-bottom: 0;
+}
+.home-form-container 
+{
+    background: none repeat scroll 0 0 #f3f3f3;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    display: table;
+    padding: 30px 0;
+    text-align: center;
+}
+#searchCarContainerDiv  .subhead-inverse 
+{
+    color: #208738;
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.searchLabel 
+{
+    color: #000000;
+    padding-right: 10px;
+}
+#search-cars
+{
+    color: #fff !important;
+}
+.home-date-widget 
+{
+    border-left: 1px solid #F2F2F2;
+    margin-right: 5px;
+    width: 180px;
+}
+.date
+{
+    position: relative;
+}
+.triplocationSearch
+{
+    margin-bottom: 10px;
+    width: 192px;
+}
+/* End of file search.css */
+/* Location: ./css/search.css */ 

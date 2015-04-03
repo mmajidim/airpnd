@@ -1,0 +1,1 @@
+<script src="resource/js/error.min.js"></script>
