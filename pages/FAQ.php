@@ -164,7 +164,7 @@
                         <h5>Still have question?</h5>
                     </p>
                     <p>
-                        Feel free to reach us at  <a href="mailto:supports@airpnd.com ">supports@airpnd.com </a> 
+                        Feel free to reach us at  <a href="mailto:support@airpnd.com ">support@airpnd.com </a> 
                     </p>
                 </div>
             </div>
