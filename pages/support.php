@@ -18,7 +18,7 @@
                 </div>
             </li>
             <li>
-                <h3> to AIRPND?</h3>
+                <h3> to AirPnD?</h3>
             </li>
             <li>Discover the quick and reliable <br>way to rent a car <br>and share a car.<a href="faq.php" >&nbsp;Know More</a>
             </li>
