@@ -75,7 +75,7 @@
                         </h5>
                     </p>
                     <p>
-                        Sharing community is build upon trust and safety.  Please visit our<a href="trustAndSafety.php">  Trust and Safety </a> page to make informed choices.
+                        Sharing community is build upon trust and safety.  Please visit our<a href="insurance.php">  Trust and Safety </a> page to make informed choices.
                     </p>
                     <p>
                         <h5>
