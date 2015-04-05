@@ -85,7 +85,7 @@
                                 <div class="panel-body">
                                     <address>
                                         <strong>Address:</strong><br>
-                                        <p>AIRPND, LLC 1434 Spruce St, Suite 100, Boulder CO 80302</p>
+                                        <p>AirPnD, LLC 1434 Spruce St, Suite 100, Boulder CO 80302</p>
                                          <strong>Phone:</strong><br>
                                         <p>1-866-552-2477</p>
                                          <strong>Email:</strong><br>
