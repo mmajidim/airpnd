@@ -21,7 +21,7 @@
                         </h5>
                     </p>
                     <p>
-                        AirPnD inspired by sharing community and social responsibility.  We provide ride-sharing platform for airport travelers giving rides to other travelers who need rides from airports to home and vice versa to fill up their empty seats in private vehicles.  This will reduce traffic congestion, reduce carbon emission, save time, save money on gas, save money on airport parking and build networking.
+                        AirPnD inspired by sharing community and social responsibility. We provide ride-sharing platform for airport travelers giving rides to other travelers who need rides from airports to home and vice versa to fill up their empty seats in private vehicles. This will reduce traffic congestion, reduce carbon emission, save time, save money on gas, save money on airport parking and build networking.
                     </p>
                     <p>
                         <h5>What AirPnD offers?</h5>
@@ -47,7 +47,7 @@
                         </h5>
                     </p>
                     <p>
-                        Drivers set the Fees. Suggested price is calculated based upon from and to destination. The set price cannot exceed the IRS travel reimbursement rate of $0.56/mile.  However, Drivers are welcome to set your price lower than suggested price.
+                        Drivers set the Fees. Suggested price is calculated based upon from and to destination. The set price cannot exceed the IRS travel reimbursement rate of $0.56/mile. However, Drivers are welcome to set your price lower than suggested price.
                     </p>
                     <p>
                         All payments are handled electronically via AirPnD payment system 24 hours after the ride. No cash payment is allowed.
@@ -58,7 +58,7 @@
                         </h5>
                     </p>
                     <p>
-                        Ride sharing or carpooling is pre-organised hitchhiking where drivers offer rides to riders along the route they already plan to travel.  Riders and drivers travel together to share the cost of gas, they would contact each other before the journey, and agreeing on meeting points, drop-off points, and cost contributions.
+                        Ride sharing or carpooling is pre-organised hitchhiking where drivers offer rides to riders along the route they already plan to travel. Riders and drivers travel together to share the cost of gas, they would contact each other before the journey, and agreeing on meeting points, drop-off points, and cost contributions.
                     </p>
                     <p>
                         <h5>
@@ -75,7 +75,7 @@
                         </h5>
                     </p>
                     <p>
-                        Sharing community is build upon trust and safety.  Please visit our<a href="insurance.php">  Trust and Safety </a> page to make informed choices.
+                        Sharing community is build upon trust and safety.  Please visit our<a href="insurance.php"> Trust and Safety </a> page to make informed choices.
                     </p>
                     <p>
                         <h5>
@@ -91,7 +91,7 @@
                         </h5>
                     </p>
                     <p>
-                        You can post <a href="requestRide.php"> Request a Ride </a> on AirPnD and we will notify you when someone wants to contact you and offer a ride.  Alternatively, you can <a href="findRide.php"> Search for Drivers </a>
+                        You can post <a href="requestRide.php"> Request a Ride </a> on AirPnD and we will notify you when someone wants to contact you and offer a ride. Alternatively, you can <a href="findRide.php"> Search for Drivers </a>
                     </p>
                     <p>
                         <h5>
@@ -115,10 +115,10 @@
                         </h5>
                     </p>
                     <p>
-                        All payment is made online via AirPnD booking system.  The payment is collected by us from the rider in advance.  At the end of the ride, you will obtain an auto-generated code from rider.  You must submit the code in order to get paid. All payment is made to you within24hours after submitting the code.
+                        All payment is made online via AirPnD booking system. The payment is collected by us from the rider in advance. At the end of the ride, you will obtain an auto-generated code from rider. You must submit the code in order to get paid. All payment is made to you within 24 hours after submitting the code.
                     </p>
                     <p>
-                        You will need a PayPal account if you select PayPal.  If you select check payment, we will send you a check. 
+                        You will need a PayPal account if you select PayPal. If you select check payment, we will send you a check. 
                     </p>
                     <p>
                         <h5>
@@ -134,7 +134,7 @@
                         </h5>
                     </p>
                     <p>
-                        AirPnD will email and send you a text message you once a passenger requests a ride. You will then be given the option to accept, decline, or send a message to the passenger.  Once you accept and confirm a booking, you will receive the passenger's  phone number and email address.
+                        AirPnD will email and send you a text message you once a passenger requests a ride. You will then be given the option to accept, decline, or send a message to the passenger. Once you accept and confirm a booking, you will receive the passenger's phone number and email address.
                     </p>
                     <p>
                         <h5>
@@ -142,17 +142,17 @@
                         </h5>
                     </p>
                     <p>
-                        Once you find a ride matches your request, click on book it to submit your request, and you will be prompted to enter your credit card information.  Booking request will only pre-authorize your credit card to verify sufficient funds available.  Your credit card will NOT be charged unless the driver accepts your booking request. Once booking has been confirmed, we will provide the driver's  email address and phone number.
+                        Once you find a ride matches your request, click on book it to submit your request, and you will be prompted to enter your credit card information. Booking request will only pre-authorize your credit card to verify sufficient funds available. Your credit card will NOT be charged unless the driver accepts your booking request. Once booking has been confirmed, we will provide the driver's email address and phone number.
                     </p>
                     <p>
                         <h5>
                             What is AirPnD going to do with my phone number, email and Facebook account?</h5>
                     </p>
                     <p>
-                        We need your phone number and email to help you organize your rides.  Your contact will not be disclosed publicly. See privacy policy. 
+                        We need your phone number and email to help you organize your rides. Your contact will not be disclosed publicly. See privacy policy. 
                     </p>
                     <p>
-                        Facebook will allow you to sign up to use our service.  We also created option for user to sign up without needing a Facebook account but using their email. 
+                        Facebook will allow you to sign up to use our service. We also created option for user to sign up without needing a Facebook account but using their email. 
                     </p>
                     <p>
                         <h5>My Profile</h5>
