@@ -349,7 +349,7 @@
         </div>
         <div class="row">
             <ul class="footerListItem">
-            <li class="copy">&copy;&nbsp;2014 AirPnD, LLC. All Rights Reserved.</li>            
+            <li class="copy">&copy;&nbsp;2015 AirPnD, LLC. All Rights Reserved.</li>            
         </div>
     </div>
 </footer>
