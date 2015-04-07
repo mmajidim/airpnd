@@ -3889,7 +3889,7 @@ function getOrderByEntity
         headers  : HEADER,
         error    : function (e)
         { 
-            res = -1;
+            res = NO_ID;
         },
         success  : function(jsonResult)
         { 
@@ -3901,7 +3901,7 @@ function getOrderByEntity
             }
             else
             {      
-                res = "";
+                res = NO_ID;
             }
         }
     });

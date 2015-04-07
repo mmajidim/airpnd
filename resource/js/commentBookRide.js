@@ -138,7 +138,9 @@ $(function(){
                      toAddress    = $.session.get('locationFindRide');
                      startAddress = $.session.get('addressFindRide');
                  }
-/*
+
+                 // the autolift service checks if the lift exists 
+                 // with a new status and it only upsates the lift
                  contribution  = $.session.get('contribution');   
                  date          = $.session.get('dateFindRide');   
                  time          = $.session.get('timeFindRide');
@@ -152,7 +154,7 @@ $(function(){
                                    startType, seats, smoker, bags, 
                                    bagSize);        
                 $.session.set('liftId', liftId);
-*/
+
                 var rideId       = $.session.get('rideId');
                 var res          = getARide(rideId);
                 var ride         = res.ride;

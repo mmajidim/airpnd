@@ -5057,6 +5057,8 @@ class CustomWebService extends Ajax
         if ($id != NO_ID)
         {
             $liftObj = $liftCT->get($id);
+
+            // the lift should always be new, this could be an error case
             if ($liftObj->status != LiftVO::NEW_LIFT)
             {
                 // the contribution has been passed since the user
@@ -5066,7 +5068,7 @@ class CustomWebService extends Ajax
                                          $liftObj->contribution;
                 $lift['id']            = NO_ID;
                 $lift['customerId']    = $liftObj->customerId;
-                $lift['contribution']  = $liftObj->customerId;
+                $lift['contribution']  = $contribution;
                 $lift['orderId']       = NO_ID;
                 $lift['confNum']       = "";
                 $lift['contribution']  = $contribution;
