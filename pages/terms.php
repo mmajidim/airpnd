@@ -215,7 +215,7 @@ All intellectual property rights in the Site and in the AirPnD Services shall be
                     <h6>Copyright complaints and copyright agent</h6>
                 </p>
                 <p>
-Airpnd.com respects the intellectual property of others, and expects Users to do the same. If you believe, in good faith, that any materials on the Services infringe upon any copyright that you own, please send the following information to airpnd.com's Copyright Agent at AirPnD, LLC., 1434 Spruce, St, Boulder, CO 80302.
+Airpnd.com respects the intellectual property of others, and expects Users to do the same. If you believe, in good faith, that any materials on the Services infringe upon any copyright that you own, please send the following information to airpnd.com's Copyright Agent at AirPnD, LLC., 1434 Spruce St, Suite 100, Boulder, CO 80302.
                 </p>
 
                 <p>
