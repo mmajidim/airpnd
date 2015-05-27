@@ -385,7 +385,7 @@ function getMyRides
                 htmlBody+=' startType='+item.startType;
                 htmlBody+=' customerId="'+item.customerId+'">';
                 htmlBody+='<i class="icon-th"></i>';
-                htmlBody+=' Select Ride</a></td></tr>';
+                htmlBody+=' Select Offer</a></td></tr>';
             }
             htmlBody+='<tr><td colspan="2">Date</td><td  colspan="2" '+
                       'class="dateTime">'+date+'</td></tr>';
@@ -489,10 +489,10 @@ function getStatusName
     switch(parseInt(statusId))
     {
         case 0:
-            status = 'New Ride';
+            status = 'New';
             break;
         case 1:
-            status = 'Pending';
+            status = 'Available';
             break;
         case 2:
             status = 'Full';

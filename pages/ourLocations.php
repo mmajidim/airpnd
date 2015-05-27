@@ -14,7 +14,7 @@
         <div class="row-fluid">&nbsp;</div>
         <div class="row-fluid">
             <div class="row-fluid"><section id="markers" class="row">
-                    <h2 class="two columns mobile-one">Airports</h2>
+                    <h2 class="two columns mobile-one">Available Airports</h2>
                     <div class="four columns mobile-two">
                         <ul class="tabs-content">
                             <li class="active" id="example2Tab">

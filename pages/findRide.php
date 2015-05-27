@@ -164,7 +164,7 @@
                             <div class="span6 pull-right">
                                 <div id="panelMyRide" class="panel panel-success hide">
                                     <div class="panel-heading"> 
-                                        <h4 class="greenLabel"> My Lifts</h4>
+                                        <h4 class="greenLabel"> My Requests</h4>
                                     </div>
                                     <div class="panel-body">
                                         <div class="liquid-slider"  id="myFindRideContainer">

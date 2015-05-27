@@ -88,7 +88,8 @@
                                                     <div class="span9">     
                                                         <select id="bagSizeSelect" name="bagSizeFindRider" class="seatsBagSize " placeholder="Choose your bag Size">
                                                         </select> 
-                                                        <!--<input type="text" name="bagSizeFindRider" id="bagSizeFindRider" maxlength="2" placeholder="Bag size" class="input-mini numeric ignore" />-->
+                                                        <!--<input type="text" name="bagSizeFindRider" 
+                                                                   id="bagSizeFindRider" maxlength="2" placeholder="Bag size" class="input-mini numeric ignore" />-->
                                                     </div>
                                                 </div>
                                                 <div class="row-fluid">&nbsp;</div>
@@ -165,7 +166,7 @@
                             <div class="span6 pull-right">
                                 <div id="panelMyLift" class="panel panel-success hide ">
                                     <div class="panel-heading"> 
-                                        <h4 class="greenLabel">My Rides</h4>
+                                        <h4 class="greenLabel">My Offers</h4>
                                     </div>
                                     <div class="panel-body">
                                         <div class="liquid-slider"  id="myLiftsContainer">

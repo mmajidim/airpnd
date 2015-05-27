@@ -361,7 +361,7 @@ function loadCustomerLifts
                             item.startType;
                 htmlBody+=' customerId="'+
                             item.customerId+'"><i class="icon-th"></i>';
-                htmlBody+=' Select Lift</a></td></tr>';
+                htmlBody+=' Select Request</a></td></tr>';
             }
             htmlBody+='<tr><td colspan="2">Date</td><td colspan="2" '+
                       'class="date">'+date+'</td></tr>';

@@ -27,10 +27,10 @@
                         <h5>What AirPnD offers?</h5>
                     </p>
                     <p>
-                        Offer Rides - AirPnD allows you to sign up and offer rides from airports to your destination vice versa 
+                        Offer A Ride - AirPnD allows you to sign up and offer rides from airports to your destination vice versa 
                     </p>
                     <p>
-                        Request Rides - AirPnD allows you to sign up and request rides from airports to your destination vice versa
+                        Request A Ride - AirPnD allows you to sign up and request rides from airports to your destination vice versa
                     </p>
                     <p>
                         Search - AirPnD allows you to sign up and search for riders or drivers from airports to your destination and vice versa
@@ -41,6 +41,13 @@
                     <p>
                         Every user needs an online account to offer a ride or request a ride. <a id="createAccount" href="#"> Click here </a> to register for a free online account. 
                     </p>
+		    <p>
+                        <h5>Can I use AirPnD on my phone?</h5>
+                    </p>
+                    <p>
+                        Currently you can list, search and request your rides on www.airpnd.com using a smart phone with a web browser. AirPnD will soon be available as an iPhone or Android app.  Current users will be notified when the app is available for download. 
+                    </p>
+
                     <p>
                         <h5>
                             Tell me how Pricing and Payment work?
@@ -115,7 +122,7 @@
                         </h5>
                     </p>
                     <p>
-                        All payment is made online via AirPnD booking system. The payment is collected by us from the rider in advance. At the end of the ride, you will obtain an auto-generated code from rider. You must submit the code in order to get paid. All payment is made to you within 24 hours after submitting the code.
+                        All payment is made online via AirPnD booking system. The payment is collected by us from the rider in advance. At the end of the ride, you will obtain a unique confirmation code from rider. You must submit the confirmation code in order to get paid. All payment is made to you within 24 hours after submitting the confirmation code.
                     </p>
                     <p>
                         You will need a PayPal account if you select PayPal. If you select check payment, we will send you a check. 
@@ -130,11 +137,11 @@
                     </p>
                     <p>
                         <h5>
-                            How do I know a booking request has been made to my offer?
+                            How do I know when a ride request is accepted, my payment has been accepted etc?
                         </h5>
                     </p>
                     <p>
-                        AirPnD will email and send you a text message you once a passenger requests a ride. You will then be given the option to accept, decline, or send a message to the passenger. Once you accept and confirm a booking, you will receive the passenger's phone number and email address.
+                        You will get notified by text (if you agree to SMS) and email throughout at each step in your ride request process. You will receive the passenger's phone number and email address after payment has been posted. 
                     </p>
                     <p>
                         <h5>
@@ -142,7 +149,16 @@
                         </h5>
                     </p>
                     <p>
-                        Once you find a ride matches your request, click on book it to submit your request, and you will be prompted to enter your credit card information. Booking request will only pre-authorize your credit card to verify sufficient funds available. Your credit card will NOT be charged unless the driver accepts your booking request. Once booking has been confirmed, we will provide the driver's email address and phone number.
+                        Once you find a ride matches your request, click on request, AirPnD will notify driver of your request. Once a driver accepts your ride request, you will be able to pay for your ride under Request A Ride-->Manage Requests-->My Requests . By clicking the Pay Now button for an accepted ride you will be taken to the card payment screen. Your credit card will NOT be charged unless the driver accepts your booking request. Once booking has been confirmed, we will provide the driver's email address and phone number.
+                    </p>
+
+ 		    <p>
+                        <h5>
+                            How do I check the status of my offered rides?
+                        </h5>
+                    </p>
+                    <p>
+                        You are immediately notified by text message and email notification if there are changes to the status of your offered rides. You are also be able to view  the status of all your offered rides under Offer A Ride-->Manage Offers-->My Offers
                     </p>
                     <p>
                         <h5>
@@ -155,10 +171,16 @@
                         Facebook will allow you to sign up to use our service. We also created option for user to sign up without needing a Facebook account but using their email. 
                     </p>
                     <p>
-                        <h5>My Profile</h5>
+                        <h5>How do I view rider's information?</h5>
                     </p>
                     <p>
-                        <h5>My Account</h5>
+                        Once your offer have been paid for by rider you can view rider's information under Offer A Ride-->Manage Offers-->My Offers-->Show Riders 
+                    </p>
+                    <p>
+                        <h5>How do I view driver's information?</h5>
+                    </p>
+		    <p>
+                        Once your request has been accepted and paid for by you can view driver's information under Offer A Ride-->Manage Requests-->My Requests-->Show Drivers 
                     </p>
                     <p>
                         <h5>Still have question?</h5>

@@ -32,7 +32,7 @@
                     <p>Below is your AirPnD checklist which helps you to make informed choices and ride with confidence. </p>
                     <p><b>Trust and Privacy: </b> &nbsp;  Sharing community network is built on trust of others in the network.  Your personal information will be protected. </p>
                     <p><b>Profile and Verification:</b> &nbsp; All Driver and Rider profiles are verified via Facebook, email, phone number and mutual friend.  </p>
-                    <p><b> Feedback and Reviews: </b> &nbsp; We invited users to rate each other after trips.</p>
+                    <p><b> Feedback and Reviews: </b> &nbsp; We invited users to rate each other after trips. This feature will be available in the upcoming release</p>
                     <p><b>Secure Payments: </b> &nbsp; We do not allow cash transaction. All payments are made electronically via www.airpnd.com and include any and all service fees related to using the AirPnD website. </p>
                     <p><b> Messaging:</b> &nbsp; Users chose and decide who they want to ride with.  Our messaging system allows user to decline or accept requests quickly. </p>
                     <p> <b>Supports: </b>&nbsp; Contact AirPnD with question or feedbacks.  We are here to ensure users share rides with confidence. </p>

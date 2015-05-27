@@ -3373,7 +3373,7 @@ function getLiftStatusName
     switch(statusInt)
     {
         case NEW_LIFT:
-            statusName = 'New Lift';
+            statusName = 'New Request';
             break;
         case PENDING_CONFIRM:
             statusName = 'Confirmation Pending';
