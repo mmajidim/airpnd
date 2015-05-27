@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<report name="Driver" type="AirPnD">
+    <criterias></criterias>
+    <columns hascriteria="No">    
+        <tables hascriteria="no">customer</tables>
+        <joins></joins>
+        <groupBy></groupBy>
+        <orderBy></orderBy>
+        <column type="normal" name="firstName" label="First Name" dbColName="firstName" contentType="text" align="left" width="100"/>
+        <column type="normal" name="lastName"  label="Last Name" dbColName="lastName" contentType="text" align="left" width="100"/>
+        <column type="normal" name="email" label="Email" dbColName="email" contentType="text" align="left" width="100"/>
+    </columns>
+</report>

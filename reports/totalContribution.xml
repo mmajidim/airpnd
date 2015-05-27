@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<report name="Total Contributions" type="AirPnD">
+    <criterias>
+    </criterias>
+    <columns hascriteria="no"> 
+        <tables hascriteria="no">
+            <criterias>
+            </criterias>            
+            <![CDATA[         
+                (SELECT o.id AS ownerid, p.id AS paymentid, 
+                        l.dt AS liftDate,l.id AS liftid, 
+                        l.contribution AS liftcontribution, 
+                        c.firstName AS customerfirstname, 
+                        c.lastName AS customerlastname, 
+                        p.amount AS paymentamount, ow.firstName AS owfirstname, 
+                        ow.lastName AS owlastname, 
+                        r.dt AS ridedate 
+                FROM owner AS ow, ride AS r, customer AS c, payment AS p, 
+                     lift AS l, `order` AS o 
+                WHERE l.orderId = o.id AND p.orderId = o.id AND 
+                      l.customerId = c.id AND r.id = l.rideId AND 
+                      ow.id = r.ownerId                               
+                ) AS tc
+            ]]>
+        </tables> 
+        <groupBy></groupBy>
+        <orderBy></orderBy>
+        <column type="normal" name="customerfirstname" label="Customer First Name" 
+                dbColName="customerfirstname" 
+                contentType="text" align="left" width="50" rwidth="40"/>
+        <column type="normal" name="customerlastname" label="Customer Last Name" 
+                dbColName="customerlastname" 
+                contentType="text" align="left" width="20" rwidth="40"/>
+        <column type="normal" name="liftcontribution" label="Lift contribution" 
+                dbColName="liftcontribution" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+         <column type="normal" name="paymentamount" label="paymentamount" 
+                dbColName="paymentamount" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+          <column type="normal" name="owfirstname" label="owfirstname" 
+                dbColName="owfirstname" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+           <column type="normal" name="owlastname" label="owlastname" 
+                dbColName="owlastname" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+          <column type="normal" name="ridedate" label="ridedate" 
+                dbColName="ridedate" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+                 <column type="normal" name="liftDate" label="liftDate" 
+                dbColName="DATE_FORMAT(liftDate,'%b %d %Y %h:%i %p') AS liftDate" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+                
+                 <column type="normal" name="ownerid" label="ownerid" 
+                dbColName="ownerid" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+                 <column type="normal" name="paymentid" label="paymentid" 
+                dbColName="paymentid" 
+                contentType="text" align="left" width="100" rwidth="40"/>
+    </columns>
+</report>
