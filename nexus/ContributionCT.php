@@ -162,7 +162,12 @@ class ContributionCT extends CT
             $airportDistance = $this->getMiles($airportAddress, 
                                                $driverAddress);
             $rate = $pricePerRider / ($airportDistance + $driverToRider);
-        }        
+        }
+        if ($rate > self::PRICE_PER_MILE)
+        {
+            $rate = self::PRICE_PER_MILE;
+        }
+                
         return $rate;        
     }
     
