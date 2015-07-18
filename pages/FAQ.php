@@ -54,10 +54,10 @@
                         </h5>
                     </p>
                     <p>
-                        Drivers set the Fees. Suggested price is calculated based upon from and to destination. The set price cannot exceed the IRS travel reimbursement rate of $0.56/mile. However, Drivers are welcome to set your price lower than suggested price.
+                        Drivers set the Fees. Suggested price is calculated based upon from and to destination. The set price cannot exceed the IRS travel reimbursement rate. Our system currently limits the price per mile to $0.50. However, Drivers are welcome to set your price lower than suggested price.
                     </p>
                     <p>
-                        All payments are handled electronically via AirPnD payment system 24 hours after the ride. No cash payment is allowed.
+                        All payments are handled electronically via AirPnD payment system between 24-48 hours after the ride. No cash payment is allowed.
                     </p>
                     <p>
                         <h5>
@@ -122,10 +122,10 @@
                         </h5>
                     </p>
                     <p>
-                        All payment is made online via AirPnD booking system. The payment is collected by us from the rider in advance. At the end of the ride, you will obtain a unique confirmation code from rider. You must submit the confirmation code in order to get paid. All payment is made to you within 24 hours after submitting the confirmation code.
+                        All payment is made online via AirPnD booking system. The payment is collected by us from the rider in advance. At the end of the ride, you will obtain a unique confirmation code from rider. You must submit the confirmation code in order to get paid. All payment is made to you within 24-48 hours after submitting the confirmation code.
                     </p>
                     <p>
-                        You will need a PayPal account if you select PayPal. If you select check payment, we will send you a check. 
+                        You will need a PayPal account for payment processing. 
                     </p>
                     <p>
                         <h5>

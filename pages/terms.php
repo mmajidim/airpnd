@@ -58,7 +58,7 @@ Fees Paid by Drivers. There is no fee for Drivers for using the AirPnD Services.
                 </p>
                 <p></p>
                 <p>
-Fees Paid by Riders. When Riders accept a Ride on airpnd.com, they agree to share the cost of the trip by paying the Driver's Fee plus the AirPnD service fee of 15% per mile ("AirPnD Service Fee") via on-line payment on airpnd.com. 
+Fees Paid by Riders. When Riders accept a Ride on airpnd.com, they agree to share the cost of the trip by paying the Driver's Fee plus the AirPnD service fee of 15% ("AirPnD Service Fee") via on-line payment on airpnd.com.
                 </p>
                 <p>
 Collectively the Driver Fee and AirPnD Service Fee shall be referred to as "Fees."

@@ -1,5 +1,11 @@
 </head>
 <body ondragstart="return false;" ondrop="return false;">
+
+    <?php if(!isset($_SESSION['user']) || empty($_SESSION['user'])){?>
+    <div class="pull-left" style="top:10px;left:5px;position:absolute">  
+        <a id="createAccountHome" href="#">Sign up with AirPnD today and share your ride to/from airports! <br><b>AirPnD waives transaction fees until 1/31/2016</b>. </a>
+    </div>
+    <?php }; ?>
     <!-- /.modal for alert box -->
     <div id="alertBox" ></div>
 
@@ -27,7 +33,6 @@
         </div>
        <?php } else{ ?> 
         <div class="pull-right">
-
             <a id="signInTop" class="signInModal" href="#">
                 <span class="add-on">
                     <i class="icon-off"></i>
@@ -47,12 +52,24 @@
                 <a class="brand" href="index.php"><img src="resource/images/logoairPnD.png" alt="AIRPND" height="200" width="200"/></a>
                 <div class="nav-collapse collapse">
                     <ul class="nav pull-right">
-                        <li class="navList requestRide" ><a href="#" for="requestRide" class="white-color menuLink"><img height="17" alt="" src="resource/images/share_car.png"> Request A Ride</a></li>
-                        <li class="navList postRide" ><a href="#" for="postRide" class="white-color menuLink"><img height="17" alt="" src="resource/images/airspend.png"> Offer A Ride</a></li>
-                        <li class="navList findRider" ><a href="#" for="findRider" class="white-color menuLink"><img height="17" alt="" src="resource/images/find_car.png"> Search Riders</a></li>  
-                        <li class="navList findRide" ><a href="#" for="findRide" class="white-color menuLink"><img height="17" alt="" src="resource/images/share_car.png"> Search Drivers</a></li>
-                        <li class="navList howItWorks" ><a href="#" for="howItWorks" class="white-color menuLink"><img height="17" alt="" src="resource/images/how_it_work.png"> HOW IT WORKS</a></li>
-                        <li class="navList support" ><a href="#" for="support" class="white-color menuLink"><img height="17" alt="" src="resource/images/support.png"> SUPPORT</a></li>       
+                        <li class="navList requestRide" ><a href="#" for="requestRide" class="white-color menuLink">
+                            <img height="17" alt="" src="resource/images/share_car.png"> Request A Ride</a>
+                        </li>
+                        <li class="navList postRide" ><a href="#" for="postRide" class="white-color menuLink">
+                            <img height="17" alt="" src="resource/images/airspend.png"> Offer A Ride</a>
+                        </li>
+                        <li class="navList findRider" ><a href="#" for="findRider" class="white-color menuLink">
+                            <img height="17" alt="" src="resource/images/find_car.png"> Search Riders</a>
+                        </li>  
+                        <li class="navList findRide" ><a href="#" for="findRide" class="white-color menuLink">
+                            <img height="17" alt="" src="resource/images/share_car.png"> Search Drivers</a>
+                        </li>
+                        <li class="navList howItWorks" ><a href="#" for="howItWorks" class="white-color menuLink">
+                            <img height="17" alt="" src="resource/images/how_it_work.png"> HOW IT WORKS</a>
+                        </li>
+                        <li class="navList support" ><a href="#" for="support" class="white-color menuLink">
+                            <img height="17" alt="" src="resource/images/support.png"> SUPPORT</a>
+                        </li>       
                     </ul>
                 </div>
             </div>

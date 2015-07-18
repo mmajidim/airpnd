@@ -212,7 +212,7 @@ $(function()
             return false;
     });
     // function for open sign in modal popup with togggle effect agianst sign up
-    $(document).on('click','#createAccount ,#simpleCreate',function(){
+    $(document).on('click','#createAccount ,#createAccountHome #simpleCreate',function(){
             $.session.clear('isFBVerified');
             $('#signUpModal').resetForm();  
             $('#signUpButton').removeAttr( "disabled" );
