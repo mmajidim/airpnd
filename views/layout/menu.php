@@ -2,9 +2,13 @@
 <body ondragstart="return false;" ondrop="return false;">
 
     <?php if(!isset($_SESSION['user']) || empty($_SESSION['user'])){?>
-    <div class="pull-left" style="top:10px;left:5px;position:absolute">  
-        <a id="createAccountHome" href="#">Sign up with AirPnD today and share your ride to/from airports! <br><b>AirPnD waives transaction fees until 1/31/2016</b>. </a>
-    </div>
+<div class="pull-center" style="left:5px;-moz-box-shadow: 0 0 2px red;
+                               -webkit-box-shadow: 0 0 2px red;
+                               box-shadow: 0 0 2px red;">
+    <span class="glyphicons glyphicons-circle-exclamation-mark">
+        <a id="createAccountHome" href="#"><b>Transaction fees waived until 1/31/2016</b>.</a>
+    </span> 
+</div>
     <?php }; ?>
     <!-- /.modal for alert box -->
     <div id="alertBox" ></div>
