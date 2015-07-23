@@ -20,7 +20,7 @@
             <li>
                 <h3> to AirPnD?</h3>
             </li>
-            <li>Discover the quick and reliable <br>way to rent a car <br>and share a car.<a href="faq.php" >&nbsp;Know More</a>
+            <li>Discover the quick and smart <br>way to plan <br>and share rides when you travel.<a href="faq.php" >&nbsp;Know More</a>
             </li>
         </ul>
         <ul class="search-list">

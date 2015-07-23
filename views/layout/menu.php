@@ -2,13 +2,10 @@
 <body ondragstart="return false;" ondrop="return false;">
 
     <?php if(!isset($_SESSION['user']) || empty($_SESSION['user'])){?>
-<div class="pull-center" style="left:5px;-moz-box-shadow: 0 0 2px red;
-                               -webkit-box-shadow: 0 0 2px red;
-                               box-shadow: 0 0 2px red;">
-    <span class="glyphicons glyphicons-circle-exclamation-mark">
-        <a id="createAccountHome" href="#"><b>Transaction fees waived until 1/31/2016</b>.</a>
-    </span> 
-</div>
+        <div class="blink pull-center" style="background-color:#C5E3BF;left:5px;"><b>
+            <a id="createAccountHome" href="#"><span style='color:#298E42;font-size:small'>
+            REGISTER TODAY!</span> 6 Months <span style="color:red">FREE</span> Service</a></b>
+        </div>
     <?php }; ?>
     <!-- /.modal for alert box -->
     <div id="alertBox" ></div>
@@ -79,3 +76,11 @@
             </div>
         </div>
     </div>
+<script language="javascript" type="text/javascript">
+    function pulse() 
+    {
+        $('.blink').fadeOut("slow");
+        $('.blink').fadeIn("slow");
+    }
+setInterval(pulse, 2000);
+</script>    
