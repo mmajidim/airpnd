@@ -22,7 +22,8 @@
         <title>AirPnD - Carpool for travelers going From and To AirPorts</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Carpool for travelers going From and To AirPorts">
-        <meta name="keywords" content="AirPnD, Carpool, AirPorts">
+        <meta name="keywords" content="Airports Ridesharing,Airports Carpooling,From and To airports,Ridesharing for travelers,Carpooling for travelers,From and To airports ridesharing,Airports Socially Responsible,Sustainable Transportation,People without cars,Ride-sharing community,Airport travels,Travelers ridesharing,Travelers share rides
+">
         <meta name="AirPnD" content="AirPnD" >
         <link rel="icon" href="resource/images/favicon.ico" >
 <!-- End of header html template -->

@@ -16,7 +16,11 @@
             <div class="row-fluid">
                 <div class="col-md-11">
                     <img src="resource/images/icon-contact.png"  class="span2 contactUsImg" alt=""/>
-                    <h4 class="span6">Contact Us</h4>
+                    <h4 class="span6">
+                        <a href='https://secure.airpnd.com/support.php' 
+                           style="color:black">Contact Us
+                        </a>
+                    </h4>
                 </div>
             </div>
             <div class="row-fluid ">

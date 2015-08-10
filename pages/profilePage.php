@@ -100,6 +100,7 @@
                                                        data-for="Paypal Account" />Paypal Account  
                                             </label>
                                         </div>
+<!--                                        
                                         <div class="span6">
                                             <label class="checkbox">
                                                 <input type="checkbox" name="account" 
@@ -107,6 +108,7 @@
                                                        data-for="ACH Account"  />ACH Account  
                                             </label>
                                         </div>
+-->                                        
                                     </div>                                           
                                 </div>
                             </div>

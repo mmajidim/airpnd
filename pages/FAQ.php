@@ -182,6 +182,13 @@
 		    <p>
                         Once your request has been accepted and paid for by you can view driver's information under Offer A Ride-->Manage Requests-->My Requests-->Show Drivers 
                     </p>
+
+     		    <p>
+                        <h5>How do I post/view ratings?</h5>
+                    </p>
+		    <p>
+                        The driver and rider ratings feature will be enabled following the 6 month trial period.
+                    </p>
                     <p>
                         <h5>Still have question?</h5>
                     </p>

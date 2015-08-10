@@ -161,6 +161,19 @@ $(document).on('click','#updateProfile',function(e)
         $('#phoneNumber' ).rules( "add", {required: false,});
     }
 
+    
+    if (_selectedAct == NO_ACCT)
+    {
+        $( '#accountNumber' ).rules( "add", 
+        {
+            email: true,
+            messages: 
+            {
+                   required: "please enter valid email"
+            }
+        });        
+    }
+/*    
     if (_selectedAct == PAY_PAL_ACCT)
     {
         $( '#accountNumber' ).rules( "add", 
@@ -182,7 +195,8 @@ $(document).on('click','#updateProfile',function(e)
                 required: "please enter valid ACH account"
             }
         });
-    }    
+    }
+*/
 });
 
 
