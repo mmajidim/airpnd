@@ -726,7 +726,7 @@ function loadMyLifts
                 {
 //                    htmlBody+='<a href="#" for="'+item.id+'"';
 //                    htmlBody+=' forStatus="' + item.status+'"'; 
-                    htmlBody+='<a href="#"';
+                    htmlBody+='<a href="#" for="'+item.id+'"';
                     htmlBody+=' customerId="'+item.customerId +'"';
                     htmlBody+=' class="deleteLift pull ">';
                     htmlBody+='<i class="icon-trash"></i>&nbsp;Delete';

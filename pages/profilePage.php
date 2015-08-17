@@ -60,7 +60,8 @@
                             <div class="row-fluid passwordField hide">
                                 <div class="span4 spanLabel">Confirm Password</div>                              
                                 <div class="span2">
-                                    <input type="password" name="confirmPassword" autocomplete="off"  id="confirmPasswordProfilePage" placeholder="Confirm Password" class="ignore"/>
+                                    <input type="password" name="confirmPassword" autocomplete="off"  
+                                           id="confirmPasswordProfilePage" placeholder="Confirm Password" class="ignore"/>
                                 </div>
                             </div>
                             <div class="row-fluid">
@@ -100,7 +101,6 @@
                                                        data-for="Paypal Account" />Paypal Account  
                                             </label>
                                         </div>
-<!--                                        
                                         <div class="span6">
                                             <label class="checkbox">
                                                 <input type="checkbox" name="account" 
@@ -108,7 +108,6 @@
                                                        data-for="ACH Account"  />ACH Account  
                                             </label>
                                         </div>
--->                                        
                                     </div>                                           
                                 </div>
                             </div>

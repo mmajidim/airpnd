@@ -1256,6 +1256,7 @@ function getEmailBody
             emailBody +='<p><strong>Your Confirmation code is:-</strong></p><br />';
             emailBody +='<p>Confirmation code :<b> '+ $.session.get('confirmationNo') +'</b></p>';
             emailBody +='<p><strong>The ride information as follow:</p><br />';
+            emailBody +='<p>Paid Amount: '+ lift.contribution +'</b></p>';
             emailBody +='<p>Pick Up: '+ lift.start +'</b></p>';
             emailBody +='<p>Drop Off: '+ lift.to +'</b></p>';
             emailBody +='<p>Date: '+ date +'</b></p>';

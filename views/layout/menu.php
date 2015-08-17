@@ -1,12 +1,15 @@
 </head>
 <body ondragstart="return false;" ondrop="return false;">
 
-    <?php if(!isset($_SESSION['user']) || empty($_SESSION['user'])){?>
+    <?php // if(!isset($_SESSION['user']) || empty($_SESSION['user'])){
+        if (1 == 0) {
+    ?>
         <div class="blink pull-center" style="background-color:#C5E3BF;left:5px;"><b>
             <a id="createAccountHome" href="#"><span style='color:#298E42;font-size:small'>
             REGISTER TODAY!</span> 6 Months <span style="color:red">FREE</span> Service</a></b>
         </div>
     <?php }; ?>
+    
     <!-- /.modal for alert box -->
     <div id="alertBox" ></div>
 
