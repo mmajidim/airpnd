@@ -1215,7 +1215,7 @@ function getEmailBody
             emailBody +='</p><p>'+activationBody+'<br><br></p>';
             emailBody +='<p><strong>Your Credentials:-</strong>:-</p><br />';
             emailBody +='<p>User Name:<b> '+ userName +'</b></p>';
-            emailBody +='<p>Password:<b> '+ password +'</b></p>';
+//            emailBody +='<p>Password:<b> '+ password +'</b></p>';
             emailBody +='<br /><p>Regards:-</p>';
             emailBody +='<p>Airpnd Team.</p>';
             emailBody +='<p><sub><i>This is a system generated';
@@ -1228,7 +1228,7 @@ function getEmailBody
             emailBody +='registration.</p><p>'+activationBody+'<br><br></p>';
             emailBody +='<p><strong>Your Credentials:-</strong>:-</p><br />';
             emailBody +='<p>User Name:<b> '+ userName +'</b></p>';
-            emailBody +='<p>Password:<b> '+ password +'</b></p>';
+//            emailBody +='<p>Password:<b> '+ password +'</b></p>';
             emailBody +='<br /><p>Regards:-</p>';
             emailBody +='<p>Airpnd Team.</p>';
             emailBody +='<p><sub><i>This is a system generated';
